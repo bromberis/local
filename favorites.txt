@@ -1,3 +1,6 @@
 Pizza
 Pasta
 Lasagna
+Giraffe 
+Panda
+Pig
